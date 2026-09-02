@@ -500,3 +500,4 @@ Apache License 2.0
 ---
 
 **Persistent Experiential State is experimental research. No claim is currently made that PES produces useful persistent behavioral adaptation.**
+This is being done with the help of AI Grok SpacexAI and ChatGPT Open-AI
